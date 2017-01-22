@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Fobias y miedos</title>
+  <link rel="stylesheet" href="styleFobia.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+
+  <div class="header">
+
+    <h1>Buscador de Fobias y Miedos</h1>
+
+    <h3>El 100% de las personas tienen miedo. Pero menos del 1% tiene una fobia.</h3>
+
+    <!-- <div class="banner-top"> -->
+      
+    </div>
+    
+  </div>
+
+  <div class="main-body">
+
+    <!-- <div class="banner-left">
+      <img src="" alt="Banner 300x600">
+    </div> -->
+
+    <form class="search-form">
+      <input type="text" class="search" placeholder="Escribe aquí tu fobia o miedo...">
+      <ul class="suggestions">
+        <li>Filtra por el nombre de una fobia...</li>
+        <li>...o por cualquier palabra que pueda estar en su definición</li>
+      </ul>
+    </form>
+
+    <!-- <div class="banner-right">
+      <img src="" alt="Banner 300x600">
+    </div> -->
+
+  </div>
+
+ <!--  <div class="banner-down">
+    <img src="" alt="Banner 320x100">
+  </div> -->
+
+  <div class="wrapper">
+    <footer class="footer-container">
+      <div class="footer-element">
+        <span>Another <a href="">invokeAmber</a>&copy; Digital Shit. All rights reserved <script type="text/javascript">document.write(new Date().getFullYear());</script>.</span>
+      </div>
+    </footer>
+  </div>
+
+<script>
+
+const endpoint = 'https://gist.githubusercontent.com/gitToIgna/024cfcc5042c6bab5b55222db4f03b24/raw/687d8b1ad522678450e3fa7bac17e98ee1a33329/fobias.json';
+
+const fobias = [];
+
+fetch(endpoint)
+  .then(blob => blob.json())
+  .then(data => fobias.push(...data));
+
+function findMatches(wordToMatch, fobias) {
+  return fobias.filter(place => {
+    // here we need to figure out if the fobia matches what was searched
+    const regex = new RegExp(wordToMatch, 'gi');
+    return place.name.match(regex) || place.def.match(regex)
+  });
+}
+
+function displayMatches() {
+  const matchArray = findMatches(this.value, fobias);
+  const html = matchArray.map(place => {
+    const regex = new RegExp(this.value, 'gi');
+    const fobiaName = place.name.replace(regex, `<span class="hl">${this.value}</span>`);
+    const fobiaDef = place.def.replace(regex, `<span class="hl">${this.value}</span>`);
+    return `
+      <li>
+        <span class="name"><strong>${fobiaName}:</strong> ${fobiaDef}</span>
+      </li>
+    `;
+  }).join('');
+  suggestions.innerHTML = html;
+}
+
+const searchInput = document.querySelector('.search');
+const suggestions = document.querySelector('.suggestions');
+
+searchInput.addEventListener('change', displayMatches);
+
+searchInput.addEventListener('keyup', displayMatches);
+
+</script>
+  </body>
+</html>

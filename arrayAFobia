@@ -1,0 +1,2139 @@
+    [
+    {
+        "name": "Ablutofobia", 
+        "def": "Miedo a lavarse o bañarse."
+    }, 
+    {
+        "name": "Acarofobia",
+        "def": "Miedo a las picaduras de insectos o los insectos que pican."
+    }, 
+    {
+        "name": "Acerofobia", 
+        "def": "Miedo a los ácidos o a la cosas ácidas."
+    }, 
+    {
+        "name": "Acluofobia", 
+        "def": "Miedo a la oscuridad."
+    },
+    {
+        "name": "Acrofobia", 
+        "def": "Miedo a las alturas."
+    },
+    {
+        "name": "Acusticofobia", 
+        "def": "Miedo a los ruidos."
+    },
+    {
+        "name": "Aeroacrofobia", 
+        "def": "Miedo a los lugares abiertos y altos."
+    },
+    {
+        "name": "Aerofobia", 
+        "def": "Miedo a volar en aviones."
+    },
+    {
+        "name": "Aeronausifobia", 
+        "def": "Miedo a votimar por de marearse en el avión."
+    },
+    {
+        "name": "Afenfosfobia", 
+        "def": "Miedo a ser tocado."
+    },
+    {
+        "name": "Agateofobia", 
+        "def": "Miedo a la locura."
+    },
+    {
+        "name": "Agirofobia", 
+        "def": "Miedo a las calles."
+    },
+    {
+        "name": "Agliofobia", 
+        "def": "Miedo a experimentar dolor."
+    },
+    {
+        "name": "Agorafobia", 
+        "def": "Miedo a los lugares abiertos de los que no sea posible huir inmediatamente a un lugar considerado 'seguro'."
+    },
+    {
+        "name": "Agrafobia", 
+        "def": "Miedo al abuso sexual."
+    },
+    {
+        "name": "Agrizoofobia", 
+        "def": "Miedo a los animales salvajes."
+    },
+    {
+        "name": "Aicmofobia", 
+        "def": "Miedo a las agujas y /o a otros objetos punzantes."
+    },
+    {
+        "name": "Ailurofobia", 
+        "def": "Miedo a los gatos."
+    },
+    {
+        "name": "Albuminurofobia", 
+        "def": "Miedo a las enfermedades renales."
+    },
+    {
+        "name": "Alektorofobia", 
+        "def": "Miedo a las gallinas y otras aves de corral."
+    },
+    {
+        "name": "Algofobia", 
+        "def": "Miedo al dolor."
+    },
+    {
+        "name": "Alliumfobia", 
+        "def": "Miedo al ajo."
+    },
+    {
+        "name": "Allodoxafobia", 
+        "def": "Miedo a las opiniones ajenas."
+    },
+    {
+        "name": "Altofobia", 
+        "def": "Miedo a las alturas, similar al vértigo."
+    },
+    {
+        "name": "Amathofobia", 
+        "def": "Miedo al polvo."
+    },
+    {
+        "name": "Amaxofobia", 
+        "def": "Miedo a conducir un automóvil."
+    },
+    {
+        "name": "Ambulofobia", 
+        "def": "Miedo a caminar."
+    },
+    {
+        "name": "Amicofobia", 
+        "def": "Miedo a los arañazos o de rascarse."
+    },
+    {
+        "name": "Amnesifobia", 
+        "def": "Miedo a la amnesia."
+    },
+    {
+        "name": "Anablefobia", 
+        "def": "Miedo a mirar hacia arriba."
+    },
+    {
+        "name": "Ancrofobia", 
+        "def": "Miedo al viento."
+    },
+    {
+        "name": "Anginofobia", 
+        "def": "Miedo a las anginas."
+    },
+    {
+        "name": "Anglofobia", 
+        "def": "Miedo a los ingleses."
+    },
+    {
+        "name": "Angrofobia", 
+        "def": "Miedo al enfado."
+    },
+    {
+        "name": "Anquilofobia", 
+        "def": "Miedo a ser escayolado."
+    },
+    {
+        "name": "Antlofobia", 
+        "def": "Miedo a las inundaciones."
+    },
+    {
+        "name": "Antrofobia", 
+        "def": "Miedo a las flores."
+    },
+    {
+        "name": "Antropofobia", 
+        "def": "Miedo a las personas."
+    },
+    {
+        "name": "Anuptafobia", 
+        "def": "Miedo a las soltería."
+    },
+    {
+        "name": "Apeirofobia", 
+        "def": "Miedo al infinito."
+    },{
+        "name": "Apifobia", 
+        "def": "Miedo a las abejas o avispas."
+    },
+    {
+        "name": "Apotenmofobia", 
+        "def": "Miedo a las amputaciones."
+    },
+    {
+        "name": "Aracnofobia", 
+        "def": "Miedo a las arañas. También se la conoce como aracnefobia."
+    },
+    {
+        "name": "Araquibutirofobia", 
+        "def": "Miedo a que las cáscaras de los cacahuetes o que la manteca de maní se peguen al paladar."
+    },
+    {
+        "name": "Aritmofobia", 
+        "def": "Miedo a los números."
+    },
+    {
+        "name": "Arrhenfobia", 
+        "def": "Miedo a los hombres. También se conoce como androfobia."
+    },
+    {
+        "name": "Arsonfobia", 
+        "def": "Miedo al fuego y a los incendios."
+    },
+    {
+        "name": "Asimetrifobia", 
+        "def": "Miedo a la asimetría."
+    },
+    {
+        "name": "Astenofobia", 
+        "def": "Miedo al desmayo."
+    },
+    {
+        "name": "Astrapofobia", 
+        "def": "Miedo a los rayos. También se conoce como astrafobia."
+    },
+    {
+        "name": "Astrofobia", 
+        "def": "Miedo a las estrellas y al espacio sideral."
+    },{
+        "name": "Ataxiofobia", 
+        "def": "Miedo a la descoordinación muscular o ataxis."
+    },{
+        "name": "Ataxofobia", 
+        "def": "Miedo al desorden."
+    },
+    {
+        "name": "Atazagorafobia", 
+        "def": "Miedo al olvido o ser olvidado."
+    },
+    {
+        "name": "Atefobia", 
+        "def": "Miedo a las ruinas o a las reliquias antiguas."
+    },
+    {
+        "name": "Atelofobia", 
+        "def": "Miedo a la imperfección."
+    },
+    {
+        "name": "Atiquifobia", 
+        "def": "Miedo al fracaso o al fracaso."
+    },
+    {
+        "name": "Atomosofobia", 
+        "def": "Miedo a las explosiones atómicas."
+    },
+    {
+        "name": "Aulofobia", 
+        "def": "Miedo a las flautas."
+    },
+    {
+        "name": "Aurofobia", 
+        "def": "Miedo al oro."
+    },
+    {
+        "name": "Aurorafobia", 
+        "def": "Miedo a las auroras boreales."
+    },
+    {
+        "name": "Autodisomofobia", 
+        "def": "Miedo a alguien con mal olor."
+    },
+    {
+        "name": "Autofobia", 
+        "def": "Miedo a la soledad o a sí mismo."
+    },
+    {
+        "name": "Automatonofobia", 
+        "def": "Miedo a las cosas animadas, muñecos de ventrílocuo, muñecos de cera y en general todo aquello que representa falsamente a un ser vivo."
+    },
+    {
+        "name": "Automisofobia", 
+        "def": "Miedo a ensuciarse o mancharse."
+    },
+    {
+        "name": "Aviatofobia", 
+        "def": "Miedo a volar. También se conoce como aerofobia o aviofobia."
+    },
+    {
+        "name": "Bacilofobia", 
+        "def": "Miedo a los microbios, debido a las enfermedades que éstos puedan transmitir."
+    },
+    {
+        "name": "Bacteriofobia", 
+        "def": "Miedo a las bacterias y a contraer enfermedades por su causa."
+    },
+    {
+        "name": "Balistofobia", 
+        "def": "Miedo a las balas y/o misiles."
+    },
+    {
+        "name": "Barofobia", 
+        "def": "Miedo a la gravedad. "
+    },
+    {
+        "name": "Basofobia", 
+        "def": "Miedo a caerse."
+    },
+    {
+        "name": "Bathofobia", 
+        "def": "Miedo a la profundidad."
+    },
+    {
+        "name": "Batmofobia", 
+        "def": "Miedo a las escaleras o bien a las pendientes abruptas."
+    },
+    {
+        "name": "Batofobia", 
+        "def": "Miedo a las alturas o a estar cerca de edificios altos."
+    },
+    {
+        "name": "Batracofobia", 
+        "def": "Miedo a los batracios, como ranas, salamandras, etc."
+    },
+    {
+        "name": "Belonefobia", 
+        "def": "Miedo a las agujas y los alfileres. También se conoce como aicmofobia."
+    },
+    {
+        "name": "Bibliofobia", 
+        "def": "Miedo a los libros."
+    },
+    {
+        "name": "Blenofobia", 
+        "def": "Miedo a la viscosidad y a las cosas de consistencia viscosa."
+    },
+    {
+        "name": "Bogifobia", 
+        "def": "Miedo al Hombre del Saco, al Coco o bien a los duendes o espectros."
+    },
+    {
+        "name": "Bolsefobia", 
+        "def": "Miedo a los bolcheviques y comunistas en general."
+    },
+    {
+        "name": "Botanofobia", 
+        "def": "Miedo a las plantas, árboles y flores."
+    },
+    {
+        "name": "Bromidrosifobia", 
+        "def": "Miedo al olor corporal propio o ajeno. También se conoce como bromidrofobia."
+    },
+    {
+        "name": "Brontofobia", 
+        "def": "Miedo a los truenos y rayos de las tormentas."
+    },
+    {
+        "name": "Bufonofobia", 
+        "def": "Miedo a los sapos."
+    },
+    {
+        "name": "Cacofobia", 
+        "def": "Miedo a la fealdad."
+    },
+    {
+        "name": "Caetofobia", 
+        "def": "Miedo al pelo y a los seres peludos."
+    },
+    {
+        "name": "Cainofobia", 
+        "def": "Miedo a fallar o a ser vencido."
+    },
+    {
+        "name": "Cainolofobia", 
+        "def": "Miedo a la novedad. También se conoce como cainotofobia."
+    },
+    {
+        "name": "Caliginefobia", 
+        "def": "Miedo a las mujeres hermosas."
+    },
+    {
+        "name": "Carcinofobia", 
+        "def": "Miedo al cáncer."
+    },
+    {
+        "name": "Cardiofobia", 
+        "def": "Miedo al corazón y a las enfermedades cardíacas."
+    },
+    {
+        "name": "Carnofobia", 
+        "def": "Miedo a la carne."
+    },
+    {
+        "name": "Catagelofobia", 
+        "def": "Miedo al ridículo o bien a ser ridiculizado."
+    },
+    {
+        "name": "Catapedafobia", 
+        "def": "Miedo a saltar, tanto de lugares altos como bajos."
+    },
+    {
+        "name": "Catisofobia", 
+        "def": "Miedo a sentarse."
+    },
+    {
+        "name": "Catoptrofobia", 
+        "def": "Miedo a los espejos."
+    },
+    {
+        "name": "Centofobia", 
+        "def": "Miedo a las ideas nuevas."
+    },
+    {
+        "name": "Ceraunofobia", 
+        "def": "Miedo a los rayos y truenos. También se conoce como astrafobia."
+    },
+    {
+        "name": "Chamainofobia", 
+        "def": "Miedo a Halloween."
+    },
+    {
+        "name": "Cheimafobia", 
+        "def": "Miedo al frío."
+    },
+    {
+        "name": "Chemofobia", 
+        "def": "Miedo a los químicos."
+    },
+    {
+        "name": "Chirofobia", 
+        "def": "Miedo a las manos."
+    },
+    {
+        "name": "Cianofobia", 
+        "def": "Miedo al azul."
+    },
+    {
+        "name": "Ciberfobia", 
+        "def": "Miedo a los ordenadores."
+    },
+    {
+        "name": "Cibofobia", 
+        "def": "Miedo a la comida."
+    },
+    {
+        "name": "Ciclofobia", 
+        "def": "Miedo a las bicicletas."
+    },
+    {
+        "name": "Cimofobia", 
+        "def": "Miedo a las olas o a los movimientos ondulatorios."
+    },
+    {
+        "name": "Cinofobia", 
+        "def": "Miedo a los perros."
+    },
+    {
+        "name": "Cionofobia", 
+        "def": "Miedo a la nieve."
+    },
+    {
+        "name": "Cipridofobia", 
+        "def": "Miedo a las prostitutas o a contraer enfermedades venéreas. También se conoce como ciprifobia, ciprianofobia o ciprinofobia."
+    },
+    {
+        "name": "Claustrofobia", 
+        "def": "Miedo a los espacios cerrados."
+    },
+    {
+        "name": "Cleinofobia", 
+        "def": "Miedo a ser encerrado. También se conoce como clitrofobia."
+    },
+    {
+        "name": "Cleptofobia", 
+        "def": "Miedo al robo."
+    },
+    {
+        "name": "Climacofobia", 
+        "def": "Miedo a las escaleras."
+    },
+    {
+        "name": "Clinofobia", 
+        "def": "Miedo a ir a la cama."
+    },
+    {
+        "name": "Clorofobia", 
+        "def": "Miedo al verde."
+    },
+    {
+        "name": "Cnidofobia", 
+        "def": "Miedo a los aguijones y a las picaduras. "
+    },
+    {
+        "name": "Coimetrofobia", 
+        "def": "Miedo a los cementerios."
+    },
+    {
+        "name": "Coinonifobia", 
+        "def": "Miedo a las habitaciones."
+    },
+    {
+        "name": "Coitofobia", 
+        "def": "Miedo al sexo."
+    },
+    {
+        "name": "Colerofobia", 
+        "def": "Miedo al enfado."
+    },
+    {
+        "name": "Colpofobia", 
+        "def": "Miedo a los genitales."
+    },
+    {
+        "name": "Cometofobia", 
+        "def": "Miedo a los cometas."
+    },
+    {
+        "name": "Coniofobia", 
+        "def": "Miedo al polvo. También se conoce como amatofobia."
+    },
+    {
+        "name": "Consecotaleofobia", 
+        "def": "Miedo a los palillos chinos."
+    },
+    {
+        "name": "Contreltofobia", 
+        "def": "Miedo al abuso sexual."
+    },
+    {
+        "name": "Copofobia", 
+        "def": "Miedo a fatigarse."
+    },
+    {
+        "name": "Coprastasofobia", 
+        "def": "Miedo a constiparse."
+    },
+    {
+        "name": "Coprofobia", 
+        "def": "Miedo a las heces."
+    },
+    {
+        "name": "Corofobia", 
+        "def": "Miedo a bailar."
+    },
+    {
+        "name": "Cosmicofobia", 
+        "def": "Miedo al cosmos."
+    },
+    {
+        "name": "Coulrofobia", 
+        "def": "Miedo a los payasos. "
+    },
+    {
+        "name": "Counterfobia", 
+        "def": "Preferencia por determinada fobia."
+    },
+    {
+        "name": "Cremnofobia", 
+        "def": "Miedo a los precipicios o abismos."
+    },
+    {
+        "name": "Criofobia", 
+        "def": "Miedo al frío extremo."
+    },
+    {
+        "name": "Crisofobia", 
+        "def": "Miedo al naranja."
+    },
+    {
+        "name": "Cristalofobia", 
+        "def": "Miedo a los vidrios."
+    },
+    {
+        "name": "Cromatofobia", 
+        "def": "Miedo a los colores. También se conoce como cromofobia."
+    },
+    {
+        "name": "Crometofobia", 
+        "def": "Miedo al dinero. También se conoce como crematofobia."
+    },
+    {
+        "name": "Cronofobia", 
+        "def": "Miedo al tiempo."
+    },
+    {
+        "name": "Cronomentrofobia", 
+        "def": "Miedo a los relojes."
+    },
+    {
+        "name": "Decidofobia", 
+        "def": "Miedo a las decisiones."
+    },
+    {
+        "name": "Defecaloesiofobia", 
+        "def": "Miedo al dolor de tripas."
+    },
+    {
+        "name": "Deipnofobia", 
+        "def": "Miedo a las cenas y a las conversaciones a la hora de la cena."
+    },
+    {
+        "name": "Dementofobia", 
+        "def": "Miedo a la locura. También se conoce como maniafobia o agateofobia."
+    },
+    {
+        "name": "Demofobia", 
+        "def": "Miedo a las multitudes."
+    },
+    {
+        "name": "Demonofobia", 
+        "def": "Miedo a los demonios."
+    },
+    {
+        "name": "Dendrofobia", 
+        "def": "Miedo a los árboles."
+    },
+    {
+        "name": "Dentofobia", 
+        "def": "Miedo al dentista y a acudir a sus consultorios."
+    },
+    {
+        "name": "Dermatofobia", 
+        "def": "Miedo a las lesiones o enfermedades en la piel. También se conoce como dermatosiofobia o dermatopatofobia."
+    },
+    {
+        "name": "Deshabiliofobia", 
+        "def": "Miedo a desnudarse delante de alguien."
+    },
+    {
+        "name": "Dextrofobia", 
+        "def": "Miedo a los objetos a la derecha del cuerpo."
+    },
+    {
+        "name": "Diabetofobia", 
+        "def": "Miedo a la diabetes."
+    },
+    {
+        "name": "Didascaleinofobia", 
+        "def": "Miedo a la escuela."
+    },
+    {
+        "name": "Dinofobia", 
+        "def": "Miedo al mareo o a los remolinos de agua."
+    },
+    {
+        "name": "Diplofobia", 
+        "def": "Miedo a la doble visión."
+    },
+    {
+        "name": "Dipsofobia", 
+        "def": "Miedo a las bebidas alcoholicas y a la embriaguez."
+    },
+    {
+        "name": "Diquefobia", 
+        "def": "Miedo a la justicia."
+    },
+    {
+        "name": "Dismorfofobia", 
+        "def": "Miedo a las deformidades."
+    },
+    {
+        "name": "Distiquifobia", 
+        "def": "Miedo a los accidentes."
+    },
+    {
+        "name": "Domatofobia", 
+        "def": "Miedo a las casas o a estar en una casa. También se conoce como eicofobia u oicofobia."
+    },
+    {
+        "name": "Dorafobia", 
+        "def": "Miedo a las pieles."
+    },
+    {
+        "name": "Dromofobia", 
+        "def": "Miedo a cruzar la calle."
+    },
+    {
+        "name": "Dutchfobia", 
+        "def": "Miedo a los alemanes u holandeses, así como a su cultura."
+    },
+    {
+        "name": "Eclesiofobia", 
+        "def": "Miedo a las iglesias. En forma habitual, se utiliza el término no como una fobia propiamente dicha, sino refiriéndose al desprecio por la Iglesia en general."
+    },
+    {
+        "name": "Ecofobia", 
+        "def": "Miedo al hogar."
+    },
+    {
+        "name": "Efebifobia", 
+        "def": "Miedo a los adolescentes."
+    },
+    {
+        "name": "Eicofobia", 
+        "def": "Miedo a los alrededores del hogar. También se conoce como oicofobia."
+    },
+    {
+        "name": "Eisoptrofobia", 
+        "def": "Miedo a los espejos o a verse reflejado en un espejo."
+    },
+    {
+        "name": "Electrofobia", 
+        "def": "Miedo a la electricidad."
+    },
+    {
+        "name": "Eleuterofobia", 
+        "def": "Miedo a la libertad."
+    },
+    {
+        "name": "Elurofobia", 
+        "def": "Miedo a los gatos. Véase ailurofobia."
+    },
+    {
+        "name": "Emetofobia", 
+        "def": "Miedo al vómito."
+    },
+    {
+        "name": "Enetofobia", 
+        "def": "Miedo a los alfileres."
+    },
+    {
+        "name": "Enoclofobia", 
+        "def": "Miedo a las multitudes o a encontrarse en una multitud."
+    },
+    {
+        "name": "Enosiofobia", 
+        "def": "Miedo a cometer un pecado capital. También se conoce como enisofobia."
+    },
+    {
+        "name": "Entomofobia", 
+        "def": "Miedo a los insectos."
+    },
+    {
+        "name": "Eosofobia", 
+        "def": "Miedo a la luz del día o al amanecer."
+    },
+    {
+        "name": "Epistaxiofobia", 
+        "def": "Miedo a las hemorragias nasales."
+    },
+    {
+        "name": "Epistemofobia", 
+        "def": "Miedo al conocimiento."
+    },
+    {
+        "name": "Equinofobia", 
+        "def": "Miedo a los caballos."
+    },
+    {
+        "name": "Eremofobia", 
+        "def": "Miedo a estar solo o bien al sentimiento de soledad."
+    },
+    {
+        "name": "Ereutrofobia", 
+        "def": "Miedo a ruborizarse."
+    },
+    {
+        "name": "Ergasiofobia", 
+        "def": "Miedo a trabajar o al funcionamiento."
+    },
+    {
+        "name": "Eritrofobia", 
+        "def": "Miedo a las luces rojas o bien al color rojo en sí. También se conoce como eritofobia o ereutofobia."
+    },
+    {
+        "name": "Erotofobia", 
+        "def": "Miedo al sexo o a las preguntas de índole sexual."
+    },
+    {
+        "name": "Escabiofobia", 
+        "def": "Miedo a las postillas."
+    },
+    {
+        "name": "Escatofobia", 
+        "def": "Miedo a la materia fecal."
+    },
+    {
+        "name": "Escolequifobia", 
+        "def": "Miedo a los gusanos."
+    },
+    {
+        "name": "Escolionofobia", 
+        "def": "Miedo a la escuela."
+    },
+    {
+        "name": "Escopofobia", 
+        "def": "Miedo a ser mirado o a ser el centro de la atención. También se conoce como escoptofobia."
+    },
+    {
+        "name": "Escotofobia", 
+        "def": "Miedo a la oscuridad."
+    },
+    {
+        "name": "Escotomafobia", 
+        "def": "Miedo a la ceguera o a perder la vista."
+    },
+    {
+        "name": "Escriptofobia", 
+        "def": "Miedo a escribir en público."
+    },
+    {
+        "name": "Especsofobia", 
+        "def": "Miedo a las avispas."
+    },
+    {
+        "name": "Espectrofobia", 
+        "def": "Miedo a los fantasmas o a los espectros."
+    },
+    {
+        "name": "Espermatofobia", 
+        "def": "Miedo al semen o a los gérmenes. También se conoce como espermofobia."
+    },
+    {
+        "name": "Esquelerofobia", 
+        "def": "Miedo a los hombres malos o a los ladrones."
+    },
+    {
+        "name": "Esquiofobia", 
+        "def": "Miedo a las sombras. También se conoce como esquiafobia."
+    },
+    {
+        "name": "Estasifobia", 
+        "def": "Miedo a estar de pie o a andar. También se conoce como estasibasifobia o ambulofobia."
+    },
+    {
+        "name": "Estaurofobia", 
+        "def": "Miedo a las cruces o a los crucifijos."
+    },
+    {
+        "name": "Estenofobia", 
+        "def": "Miedo a las cosas o lugares estrechos."
+    },
+    {
+        "name": "Estigiofobia", 
+        "def": "Miedo al infierno."
+    },
+    {
+        "name": "Eufobia", 
+        "def": "Miedo a las buenas noticias."
+    },
+    {
+        "name": "Eurotofobia", 
+        "def": "Miedo a los genitales femeninos."
+    },
+    {
+        "name": "Fagofobia", 
+        "def": "Miedo a comer o a tragar."
+    },
+    {
+        "name": "Falacrofobia", 
+        "def": "Miedo a la calvicie o a quedarse calvo."
+    },
+    {
+        "name": "Falofobia", 
+        "def": "Miedo a las erecciones."
+    },
+    {
+        "name": "Farmacofobia", 
+        "def": "Miedo a las medicinas."
+    },
+    {
+        "name": "Fasmofobia", 
+        "def": "Miedo a los fantasmas. También se conoce como espectrofobia."
+    },
+    {
+        "name": "Febrifobia", 
+        "def": "Miedo a la fiebre. Véase piretofobia."
+    },
+    {
+        "name": "Felinofobia", 
+        "def": "Miedo a los felinos, como los gatos, los tigres o los leones. También se conoce como ailurophobia, elurophobia, galeophobia o gatophobia, cuando el miedo es específicamente a los gatos."
+    },
+    {
+        "name": "Fengofobia", 
+        "def": "Miedo a la luz del día o al brillo del sol."
+    },
+    {
+        "name": "Filemafobia", 
+        "def": "Miedo a los besos. También se conoce como filematofobia."
+    },
+    {
+        "name": "Filofobia", 
+        "def": "Miedo al amor, a enamorarse o a estar enamorado."
+    },
+    {
+        "name": "Filosofobia", 
+        "def": "Miedo a la filosofía."
+    },
+    {
+        "name": "Fobia Social", 
+        "def": "Miedo a ser juzgado por la sociedad de manera negativa."
+    },
+    {
+        "name": "Fobofobia", 
+        "def": "Miedo a las fobias."
+    },
+    {
+        "name": "Fonofobia", 
+        "def": "Miedo a los ruidos, o voces, o la voz de uno mismo."
+    },
+    {
+        "name": "Fotoaugliafobia", 
+        "def": "Miedo a las luces brillantes."
+    },
+    {
+        "name": "Fotofobia", 
+        "def": "Miedo a la luz."
+    },
+    {
+        "name": "Francofobia", 
+        "def": "Miedo a Francia, los franceses o su cultura. También se conoce como galiofobia."
+    },
+    {
+        "name": "Frigofobia", 
+        "def": "Miedo al frío o a las cosas frías. Ver criofobia."
+    },
+    {
+        "name": "Fronemofobia", 
+        "def": "Miedo a pensar."
+    },
+    {
+        "name": "Galofobia", 
+        "def": "Miedo a Francia."
+    },
+    {
+        "name": "Gamofobia", 
+        "def": "Miedo al matrimonio."
+    },
+    {
+        "name": "Gatofobia", 
+        "def": "Miedo a los gatos. También se conoce como ailurofobia o elurofobia."
+    },
+    {
+        "name": "Gefirofobia", 
+        "def": "Miedo a cruzar puentes. También se conoce como gefidrofobia o gefisrrofobia."
+    },
+    {
+        "name": "Geliofobia", 
+        "def": "Miedo a la risa."
+    },
+    {
+        "name": "Geniofobia", 
+        "def": "Miedo a las barbillas o a los mentones."
+    },
+    {
+        "name": "Genofobia", 
+        "def": "Miedo al sexo."
+    },
+    {
+        "name": "Genufobia", 
+        "def": "Miedo a las rodillas."
+    },
+    {
+        "name": "Gerascofobia", 
+        "def": "Miedo a envejecer."
+    },
+    {
+        "name": "Germanofobia", 
+        "def": "Miedo a Alemania o a lo relacionado con la cultura alemana."
+    },
+    {
+        "name": "Gerontofobia", 
+        "def": "Miedo a los ancianos."
+    },
+    {
+        "name": "Geumafobia", 
+        "def": "Miedo al gusto. También se conoce como geumofobia."
+    },
+    {
+        "name": "Gimnofobia", 
+        "def": "Miedo a la desnudez."
+    },
+    {
+        "name": "Ginefobia", 
+        "def": "Miedo a las mujeres."
+    },
+    {
+        "name": "Glosofobia", 
+        "def": "Miedo a hablar o bien a hablar en público."
+    },
+    {
+        "name": "Gnoseofobia", 
+        "def": "Miedo al conocimiento y al saber."
+    },
+    {
+        "name": "Grafofobia", 
+        "def": "Miedo a escribir o bien a escribir a mano."
+    },
+    {
+        "name": "Hadefobia", 
+        "def": "Miedo al infierno. Quienes padecen de esta fobia temen cometer un pecado mortal e imperdonable que los lleve a arder en el infierno. También se conoce como estigiofobia."
+    },
+    {
+        "name": "Hafefobia", 
+        "def": "Miedo a ser tocado. También se conoce como afenfosfobia."
+    },
+    {
+        "name": "Hagiofobia", 
+        "def": "Miedo a los santos o a las cosas sagradas."
+    },
+    {
+        "name": "Hamartofobia", 
+        "def": "Miedo al pecado."
+    },
+    {
+        "name": "Harpaxofobia", 
+        "def": "Miedo al robo o a los ladrones."
+    },
+    {
+        "name": "Hedonofobia", 
+        "def": "Miedo al placer."
+    },
+    {
+        "name": "Hefefobia", 
+        "def": "Miedo a ser tocado. También se conoce como afenfosfobia."
+    },
+    {
+        "name": "Helenologofobia", 
+        "def": "Miedo a los términos griegos o a la complicada terminología científica."
+    },
+    {
+        "name": "Heliofobia", 
+        "def": "Miedo al Sol."
+    },
+    {
+        "name": "Helmintofobia", 
+        "def": "Miedo a ser infectado por gusanos."
+    },
+    {
+        "name": "Hemofobia", 
+        "def": "Miedo a la sangre. También se conoce como hemafobia o hematofobia."
+    },
+    {
+        "name": "Heresifobia", 
+        "def": "Miedo a los desafíos a la doctrina oficial o bien a la desviación fanática. También se conoce como hereiofobia."
+    },
+    {
+        "name": "Herpetofobia", 
+        "def": "Miedo a los reptiles o a las criaturas que se arrastran."
+    },
+    {
+        "name": "Heterofobia", 
+        "def": "Miedo al sexo opuesto. También se conoce como sexofobia."
+    },
+    {
+        "name": "Hexakosioihexekontahexafobia", 
+        "def": "Miedo al número 666."
+    },
+    {
+        "name": "Hialofobia", 
+        "def": "Miedo al cristal o los vidrios. También se conoce como hielofobia."
+    },
+    {
+        "name": "Hidrargiofobia", 
+        "def": "Miedo a las medicinas de mercurio."
+    },
+    {
+        "name": "Hidrofobia", 
+        "def": "Miedo al agua."
+    },
+    {
+        "name": "Hidrofobofobia", 
+        "def": "Miedo a la rabia. Quienes padecen de este trastorno temen contagiarse esa enfermedad, mal llamada hidrofobia, ya que en realidad ésta es sólo uno de sus síntomas."
+    },
+    {
+        "name": "Hierofobia", 
+        "def": "Miedo a los sacerdotes y a lo sagrado."
+    },
+    {
+        "name": "Higrofobia", 
+        "def": "Miedo a los líquidos o a la humedad."
+    },
+    {
+        "name": "Hilefobia", 
+        "def": "Miedo al materialismo."
+    },
+    {
+        "name": "Hilefobia", 
+        "def": "Miedo al materialismo."
+    },
+    {
+        "name": "Hilefobia", 
+        "def": "Miedo al materialismo."
+    },
+    {
+        "name": "Hilofobia", 
+        "def": "Miedo a los bosques."
+    },
+    {
+        "name": "Hipengiofobia", 
+        "def": "Miedo a la responsabilidad. También se conoce como hipegiafobia."
+    },
+    {
+        "name": "Hipertricofobia", 
+        "def": "Miedo al pelo. También se conoce como caetofobia."
+    },
+    {
+        "name": "Hipnofobia", 
+        "def": "Miedo a dormir o quedarse dormido."
+    },
+    {
+        "name": "Hipofobia", 
+        "def": "Miedo a los caballos. También se conoce como equinofobia."
+    },
+    {
+        "name": "Hipopotomonstrosesquipedaliofobia", 
+        "def": "Miedo a las palabras largas."
+    },
+    {
+        "name": "Hipsifobia", 
+        "def": "Miedo a las alturas. Más conocida como acrofobia."
+    },
+    {
+        "name": "Hobofobia", 
+        "def": "Miedo a los vagabundos o a los mendigos."
+    },
+    {
+        "name": "Hodofobia", 
+        "def": "Miedo a los viajes por carretera."
+    },
+    {
+        "name": "Homiclofobia", 
+        "def": "Miedo a la niebla. También se conoce como nebulafobia."
+    },
+    {
+        "name": "Homilofobia", 
+        "def": "Miedo a los sermones religiosos."
+    },
+    {
+        "name": "Hominofobia", 
+        "def": "Miedo a los hombres. Véase androfobia."
+    },
+    {
+        "name": "Homofobia", 
+        "def": "Miedo a la monotonía o a los iguales."
+    },
+    {
+        "name": "Hoplofobia", 
+        "def": "Miedo a las armas de fuego."
+    },
+    {
+        "name": "Hormefobia", 
+        "def": "Miedo al shock."
+    },
+    {
+        "name": "Iatrofobia", 
+        "def": "Miedo al médico."
+    },
+    {
+        "name": "Ictiofobia", 
+        "def": "Miedo a los peces o al pescado."
+    },
+    {
+        "name": "Ideofobia", 
+        "def": "Miedo a las ideas."
+    },
+    {
+        "name": "Ilingofobia", 
+        "def": "Miedo al vértigo o a sentirse mareado al mirar hacia abajo."
+    },
+    {
+        "name": "Insectofobia", 
+        "def": "Miedo a los insectos. Véase entomofobia."
+    },
+    {
+        "name": "Iofobia", 
+        "def": "Miedo al veneno o a ser envenenado."
+    },
+    {
+        "name": "Isolofobia", 
+        "def": "Miedo a estar solo o a sentirse aislado."
+    },
+    {
+        "name": "Isopterofobia", 
+        "def": "Miedo a las termitas u otros insectos que se alimentan de madera."
+    },
+    {
+        "name": "Itifalofobia", 
+        "def": "Miedo a la erección peneana."
+    },
+    {
+        "name": "Japanofobia", 
+        "def": "Miedo a Japón o a aquello relacionado con la cultura japonesa."
+    },
+    {
+        "name": "Judeofobia", 
+        "def": "Miedo a los judíos o a lo relacionado con la cultura judía."
+    },
+    {
+        "name": "Kakorrharfiofobia", 
+        "def": "Miedo al fracaso o a ser vencido."
+    },
+    {
+        "name": "Kenofobia", 
+        "def": "Miedo al vacío o a los espacios vacíos."
+    },
+    {
+        "name": "Kinesofobia", 
+        "def": "Miedo al movimiento. También se conoce como kinetofobia."
+    },
+    {
+        "name": "Lacanofobia", 
+        "def": "Miedo a los alimentos vegetales, frutas y verduras."
+    },
+    {
+        "name": "Laliofobia", 
+        "def": "Miedo a hablar en público, es típico de individuos con dificultad para expresarse. También se conoce como lalofobia."
+    },
+    {
+        "name": "Latrofobia", 
+        "def": "Miedo a los médicos. Véase iatrofobia."
+    },
+    {
+        "name": "Leprofobia", 
+        "def": "Miedo a la lepra. También se conoce como leprafobia."
+    },
+    {
+        "name": "Leucofobia", 
+        "def": "Miedo al color blanco."
+    },
+    {
+        "name": "Levofobia", 
+        "def": "Miedo a las cosas a la izquierda del cuerpo. Véase dextrofobia."
+    },
+    {
+        "name": "Ligofobia", 
+        "def": "Miedo a la oscuridad. También se conoce como acluofobia, escotofobia, mictofobia o nictofobia."
+    },
+    {
+        "name": "Liguirofobia", 
+        "def": "Miedo a los ruidos fuertes."
+    },
+    {
+        "name": "Lilapsofobia", 
+        "def": "Miedo a los tornados y los huracanes."
+    },
+    {
+        "name": "Limnofobia", 
+        "def": "Miedo a los lagos."
+    },
+    {
+        "name": "Linonofobia", 
+        "def": "Miedo a las cuerdas, cordeles, hilos y/o cadenas."
+    },
+    {
+        "name": "Lisofobia", 
+        "def": "Miedo a la rabia o a volverse loco. Véase también cinofobia, hidrofobia o hidrofobofobia."
+    },
+    {
+        "name": "Liticafobia", 
+        "def": "Miedo a los pleitos o a los problemas legales. También se conoce como litigofobia."
+    },
+    {
+        "name": "Locquiofobia",
+        "def": "Miedo al parto. También se conoce como maieusifobia, parturifobia o tocofobia."
+    },
+    {
+        "name": "Logicomecanofobia", 
+        "def": "Miedo a los ordenadores."
+    },
+    {
+        "name": "Logofobia", 
+        "def": "Miedo a las palabras. También se conoce como verbofobia."
+    },
+    {
+        "name": "Luifobia", 
+        "def": "Miedo a la sífilis."
+    },
+    {
+        "name": "Lutrafobia", 
+        "def": "Miedo a las nutrias."
+    },
+    {
+        "name": "Macrofobia", 
+        "def": "Temor a las largas esperas durante un tiempo prolongado."
+    },
+    {
+        "name": "Mageirocofobia", 
+        "def": "Miedo a cocinar o preparar alimentos."
+    },
+    {
+        "name": "Malaxofobia", 
+        "def": "Miedo a los juegos amorosos. También se conoce como sarmasofobia."
+    },
+    {
+        "name": "Maniafobia", 
+        "def": "Miedo a la locura, a la demencia. También se conoce como agateofobia y dementofobia."
+    },
+    {
+        "name": "Mastigofobia", 
+        "def": "Miedo al castigo. También se conoce como poinefobia."
+    },
+    {
+        "name": "Mayeusiofobia", 
+        "def": "Miedo al parto. También se conoce como locquiofobia, parturifobia, o tocofobia."
+    },
+    {
+        "name": "Mecanofobia", 
+        "def": "Miedo a las máquinas. Se la relaciona con la tecnofobia."
+    },
+    {
+        "name": "Medomalacufobia", 
+        "def": "Miedo a perder una erección peneana."
+    },
+    {
+        "name": "Medortofobia", 
+        "def": "Miedo a la erección peneana."
+    },
+    {
+        "name": "Megalofobia", 
+        "def": "Miedo a las cosas grandes."
+    },
+    {
+        "name": "Melanofobia", 
+        "def": "Miedo al negro. Por extensión, miedo a las pieles negras."
+    },
+    {
+        "name": "Melisofobia", 
+        "def": "Miedo a las abejas. Véase apifobia."
+    },
+    {
+        "name": "Melofobia", 
+        "def": "Miedo a la música. Menos conocido como musicofobia."
+    },
+    {
+        "name": "Meningitofobia", 
+        "def": "Miedo a las enfermedades del cerebro."
+    },
+    {
+        "name": "Menofobia", 
+        "def": "Miedo a la menstruación."
+    },
+    {
+        "name": "Merintofobia", 
+        "def": "Miedo a ser atado o a ser obligado."
+    },
+    {
+        "name": "Metalofobia", 
+        "def": "Miedo a los metales."
+    },
+    {
+        "name": "Metatesiofobia", 
+        "def": "Miedo a los cambios."
+    },
+    {
+        "name": "Meteorofobia", 
+        "def": "Miedo a los meteoros."
+    },
+    {
+        "name": "Metifobia", 
+        "def": "Miedo al alcohol. También se conoce como potofobia."
+    },
+    {
+        "name": "Metrofobia", 
+        "def": "Miedo a la poesía."
+    },
+    {
+        "name": "Micofobia", 
+        "def": "Miedo a las setas u hongos."
+    },
+    {
+        "name": "Microbiofobia", 
+        "def": "Miedo a los microbios. También se conoce como bacilofobia."
+    },
+    {
+        "name": "Microfobia", 
+        "def": "Miedo a las cosas pequeñas."
+    },
+    {
+        "name": "Mictofobia", 
+        "def": "Miedo a la oscuridad. También se conoce como acluofobia, escotofobia, ligofobia o nictofobia."
+    },
+    {
+        "name": "Mirmecofobia", 
+        "def": "Miedo a las hormigas."
+    },
+    {
+        "name": "Misofobia", 
+        "def": "Miedo a la suciedad o la contaminación. Frecuentemente es acompañado por un incesante lavado de manos."
+    },
+    {
+        "name": "Mitofobia", 
+        "def": "Miedo a las mentiras, los mitos, los cuentos o las falsas afirmaciones."
+    },
+    {
+        "name": "Mixofobia", 
+        "def": "Miedo a mezclarse con alguien diferente."
+    },
+    {
+        "name": "Mnemofobia", 
+        "def": "Miedo a los recuerdos."
+    },
+    {
+        "name": "Molismofobia", 
+        "def": "Miedo a la suciedad o la contaminación. También se conoce como molisomofobia."
+    },
+    {
+        "name": "Monofobia", 
+        "def": "Miedo a la soledad o a estar solo. También se conoce como isolofobia."
+    },
+    {
+        "name": "Monopatofobia", 
+        "def": "Miedo a las enfermedades crónicas o terminantes."
+    },
+    {
+        "name": "Motefobia", 
+        "def": "Miedo a las polillas."
+    },
+    {
+        "name": "Motorfobia", 
+        "def": "Miedo a los automóviles."
+    },
+    {
+        "name": "Musofobia", 
+        "def": "Miedo a los ratones. También se conoce como muridofobia, murofobia o surifobia."
+    },
+    {
+        "name": "Nebulafobia", 
+        "def": "Miedo a la niebla. También se conoce como homiclofobia."
+    },
+    {
+        "name": "Necrofobia", 
+        "def": "Miedo a la muerte o a las cosas muertas.También se conoce como tanatofobia."
+    },
+    {
+        "name": "Nefofobia", 
+        "def": "Miedo a las nubes."
+    },
+    {
+        "name": "Negrofobia", 
+        "def": "Miedo hacia las personas de piel negra."
+    },
+    {
+        "name": "Nelofobia", 
+        "def": "Miedo al vidrio. También se conoce como cristalofobia o hialofobia."
+    },
+    {
+        "name": "Neofarmacofobia", 
+        "def": "Miedo a los nuevos medicamentos, o drogas nuevas. También se conoce como neofarmafobia."
+    },
+    {
+        "name": "Neofobia", 
+        "def": "Miedo a lo nuevo."
+    },
+    {
+        "name": "Neumatifobia", 
+        "def": "Miedo a los espíritus."
+    },
+    {
+        "name": "Nictohilofobia", 
+        "def": "Miedo a los bosques oscuros."
+    },
+    {
+        "name": "Noctifobia", 
+        "def": "Miedo a la noche. Véase nictofobia."
+    },
+    {
+        "name": "Nomatofobia", 
+        "def": "Miedo a los nombres."
+    },
+    {
+        "name": "Nosocomefobia", 
+        "def": "Miedo a los hospitales."
+    },
+    {
+        "name": "Nosofobia", 
+        "def": "Miedo a enfermar o convertirse en paciente. También se conoce como nosemafobia."
+    },
+    {
+        "name": "Nostofobia", 
+        "def": "Miedo a volver a casa."
+    },
+    {
+        "name": "Novercafobia", 
+        "def": "Miedo a la madrastra."
+    },
+    {
+        "name": "Nucleomitufobia", 
+        "def": "Miedo a las armas nucleares."
+    },
+    {
+        "name": "Nudofobia", 
+        "def": "Miedo a la desnudez."
+    },
+    {
+        "name": "Numerofobia", 
+        "def": "Miedo a los números."
+    },
+    {
+        "name": "Obesofobia", 
+        "def": "Miedo a aumentar de peso. También se conoce como pocrescofobia."
+    },
+    {
+        "name": "Oclofobia", 
+        "def": "Miedo a las multitudes. También se conoce como demofobia o enoclofobia."
+    },
+    {
+        "name": "Ocofobia", 
+        "def": "Miedo a los vehículos."
+    },
+    {
+        "name": "Octofobia", 
+        "def": "Miedo a la figura 8."
+    },
+    {
+        "name": "Odinofobia", 
+        "def": "Miedo al dolor. También se conoce como odinefobia o algofobia."
+    },
+    {
+        "name": "Odontofobia", 
+        "def": "Miedo a los dientes o al dentista."
+    },
+    {
+        "name": "Oenofobia", 
+        "def": "Miedo al vino."
+    },
+    {
+        "name": "Ofidiofobia", 
+        "def": "Miedo a las serpientes."
+    },
+    {
+        "name": "Oftalmofobia", 
+        "def": "Miedo de ser observado fijamente. También se conoce como escopofobia o escoptofobia."
+    },
+    {
+        "name": "Oicofobia", 
+        "def": "Miedo a los alrededores del hogar."
+    },
+    {
+        "name": "Olfactofobia", 
+        "def": "Miedo a los olores o a los olores."
+    },
+    {
+        "name": "Omatofobia", 
+        "def": "Miedo a los ojos. También se conoce como ometafobia."
+    },
+    {
+        "name": "Ombrofobia", 
+        "def": "Miedo a la lluvia o a ser mojado por ella. También se conoce como pluviofobia."
+    },
+    {
+        "name": "Onirofobia", 
+        "def": "Miedo a los sueños. También se conoce como oneirofobia."
+    },
+    {
+        "name": "Onirogmofobia", 
+        "def": "Miedo a los sueños húmedos."
+    },
+    {
+        "name": "Onomatofobia", 
+        "def": "Miedo a escuchar cierta palabra."
+    },
+    {
+        "name": "Opiofobia", 
+        "def": "Miedo a los experimentos médicos."
+    },
+    {
+        "name": "Optofobia", 
+        "def": "Miedo a abrir los ojos."
+    },
+    {
+        "name": "Ornitofobia", 
+        "def": "Miedo a los pájaros."
+    },
+    {
+        "name": "Ortofobia", 
+        "def": "Miedo a la propiedad."
+    },
+    {
+        "name": "Osmofobia", 
+        "def": "Miedo a oler o a los olores. También se conoce como osfresiofobia. Véase olfactofobia para más información."
+    },
+    {
+        "name": "Ostraconofobia", 
+        "def": "Miedo a los mariscos."
+    },
+    {
+        "name": "Pagofobia", 
+        "def": "Miedo al hielo o a la escarcha. Véase también criofobia, frigofobia, psicrofobia, queimafobia o queimatofobia."
+    },
+    {
+        "name": "Panofobia", 
+        "def": "Miedo a todo. Más precisamente temen morbosamente al miedo mismo."
+    },
+    {
+        "name": "Panzofobia", 
+        "def": "Miedo a sufrir y enfermar."
+    },
+    {
+        "name": "Papafobia", 
+        "def": "Miedo al Papa."
+    },
+    {
+        "name": "Papirofobia", 
+        "def": "Miedo al papel."
+    },
+    {
+        "name": "Parafobia", 
+        "def": "Miedo a la perversión sexual."
+    },
+    {
+        "name": "Paralipofobia", 
+        "def": "Miedo a las responsabilidades, debido a la ausencia real o imaginaria de capacidad."
+    },
+    {
+        "name": "Parascevedecatriafobia", 
+        "def": "Miedo al viernes 13 (aplicable al martes 13 español)."
+    },
+    {
+        "name": "Parasitofobia", 
+        "def": "Miedo a los parásitos."
+    },
+    {
+        "name": "Partenofobia", 
+        "def": "Miedo a las vírgenes o a las chicas jóvenes."
+    },
+    {
+        "name": "Parturifobia", 
+        "def": "Miedo al parto. También se conoce como locquiofobia, maieusifobia o tocofobia."
+    },
+    {
+        "name": "Patofobia", 
+        "def": "Miedo a las enfermedades."
+    },
+    {
+        "name": "Patroyofobia", 
+        "def": "Miedo a la herencia."
+    },
+    {
+        "name": "Pecatofobia", 
+        "def": "Miedo a pecar o a los crímenes imaginarios."
+    },
+    {
+        "name": "Pediculofobia", 
+        "def": "Miedo a los piojos."
+    },
+    {
+        "name": "Pediofobia", 
+        "def": "Miedo a las muñecas."
+    },
+    {
+        "name": "Pedofobia", 
+        "def": "Miedo a los niños."
+    },
+    {
+        "name": "Peladofobia", 
+        "def": "Miedo a la gente calva. Véase falacrofobia."
+    },
+    {
+        "name": "Pelagrofobia", 
+        "def": "Miedo a la pelagra."
+    },
+    {
+        "name": "Peniafobia", 
+        "def": "Miedo a la pobreza."
+    },
+    {
+        "name": "Penterafobia", 
+        "def": "Miedo a la suegra."
+    },
+    {
+        "name": "Piretofobia", 
+        "def": "Miedo a la fiebre. También se conoce como febrifobia, fibrifobia o fibriofobia."
+    },
+    {
+        "name": "Pirofobia", 
+        "def": "Miedo al fuego. También se conoce como arsonfobia."
+    },
+    {
+        "name": "Placofobia", 
+        "def": "Miedo a las lápidas."
+    },
+    {
+        "name": "Plutofobia", 
+        "def": "Miedo a las riquezas y la opulencia."
+    },
+    {
+        "name": "Pluviofobia", 
+        "def": "Miedo a la lluvia o a que la lluvia lo moje a uno. También se conoce como ombrofobia."
+    },
+    {
+        "name": "Pneumatifobia", 
+        "def": "Miedo a los espíritus. También se conoce como neumatifobia."
+    },
+    {
+        "name": "Pnigofobia", 
+        "def": "Miedo a ahogarse o a atragantarse. También se conoce como pnigerofobia."
+    },
+    {
+        "name": "Pocrescofobia", 
+        "def": "Miedo a aumentar de peso. Véase obesofobia."
+    },
+    {
+        "name": "Pogonofobia", 
+        "def": "Miedo a las barbas."
+    },
+    {
+        "name": "Poinefobia", 
+        "def": "Miedo al castigo. También se conoce como mastigofobia."
+    },
+    {
+        "name": "Polifobia", 
+        "def": "Miedo a muchas cosas. También se conoce como panofobia o pantofobia."
+    },
+    {
+        "name": "Poliosofobia", 
+        "def": "Miedo a la poliomielitis."
+    },
+    {
+        "name": "Politicofobia", 
+        "def": "Miedo a los políticos."
+    },
+    {
+        "name": "Ponofobia", 
+        "def": "Miedo a trabajar en exceso."
+    },
+    {
+        "name": "Porfirofobia", 
+        "def": "Miedo al púrpura."
+    },
+    {
+        "name": "Potamofobia", 
+        "def": "Miedo a los ríos o a las aguas fluyentes."
+    },
+    {
+        "name": "Potofobia", 
+        "def": "Miedo a beber alcohol y a las bebidas alcohólicas. Véase también metifobia."
+    },
+    {
+        "name": "Proctofobia", 
+        "def": "Miedo al recto. También se conoce como rectofobia."
+    },
+    {
+        "name": "Prosofobia", 
+        "def": "Miedo al progreso."
+    },
+    {
+        "name": "Pselismofobia", 
+        "def": "Miedo a tartamudear."
+    },
+    {
+        "name": "Psicofobia", 
+        "def": "Miedo a la mente."
+    },
+    {
+        "name": "Psicrofobia", 
+        "def": "Miedo al frío. También se conoce como criofobia (ver), frigofobia, pagofobia, queimafobia o queimatofobia."
+    },
+    {
+        "name": "Pteromeranofobia", 
+        "def": "Miedo a volar."
+    },
+    {
+        "name": "Pteronofobia", 
+        "def": "Miedo a que le hagan cosquillas con una pluma."
+    },
+    {
+        "name": "Ptiriofobia", 
+        "def": "Miedo a los piojos. También se conoce como pediculofobia."
+    },
+    {
+        "name": "Ptisiofobia", 
+        "def": "Miedo a la tuberculosis. También se conoce como tuberculofobia."
+    },
+    {
+        "name": "Pupafobia", 
+        "def": "Miedo a los títeres."
+    },
+    {
+        "name": "Queimafobia", 
+        "def": "Miedo al frío. También se conoce como criofobia, frigofobia, pagofobia o psicrofobia."
+    },
+    {
+        "name": "Quenofobia", 
+        "def": "Miedo al vacío o a los espacios vacíos."
+    },
+    {
+        "name": "Querofobia", 
+        "def": "Miedo a la alegría."
+    },
+    {
+        "name": "Quetofobia", 
+        "def": "Miedo al pelo. También se conoce como caetofobia (ver), hipertricofobia, tricopatofobia o tricofobia."
+    },
+    {
+        "name": "Quifofobia", 
+        "def": "Miedo a agacharse o a inclinarse."
+    },
+    {
+        "name": "Quimofobia", 
+        "def": "Miedo a los químicos. Ver chemofobia."
+    },
+    {
+        "name": "Quionofobia", 
+        "def": "Miedo a la nieve."
+    },
+    {
+        "name": "Quiraptofobia", 
+        "def": "Miedo a ser tocado. También se conoce como afenfosfobia, hafefobia o haptefobia."
+    },
+    {
+        "name": "Quirofobia", 
+        "def": "Miedo a las manos. También se conoce como chirofobia."
+    },
+    {
+        "name": "Rabdofobia", 
+        "def": "Miedo a ser severamente castigado o golpeado con una vara."
+    },
+    {
+        "name": "Radiofobia", 
+        "def": "Miedo a la radiación o a los rayos x."
+    },
+    {
+        "name": "Ranidafobia", 
+        "def": "Miedo a las ranas.También se conoce como batraciofobia."
+    },
+    {
+        "name": "Rectofobia", 
+        "def": "Miedo al recto o a las enfermedades rectales. También se conoce como proctofobia."
+    },
+    {
+        "name": "Ripofobia", 
+        "def": "Miedo a la defecación."
+    },
+    {
+        "name": "Ritifobia", 
+        "def": "Miedo a las arrugas."
+    },
+    {
+        "name": "Rupofobia", 
+        "def": "Miedo a la suciedad."
+    },
+    {
+        "name": "Rusofobia", 
+        "def": "Miedo a Rusia, los rusos y a todo lo relacionado con la cultura rusa."
+    },
+    {
+        "name": "Samhainofobia", 
+        "def": "Miedo a Halloween."
+    },
+    {
+        "name": "Sarmasofobia", 
+        "def": "Miedo a los juegos amorosos. También se conoce como malaxofobia."
+    },
+    {
+        "name": "Satanofobia", 
+        "def": "Miedo a Satán."
+    },
+    {
+        "name": "Selacofobia", 
+        "def": "Miedo a los tiburones."
+    },
+    {
+        "name": "Selafobia", 
+        "def": "Miedo a los flashes de luz."
+    },
+    {
+        "name": "Selenofobia", 
+        "def": "Miedo a la luna."
+    },
+    {
+        "name": "Seplofobia", 
+        "def": "Miedo a las sustancias putrefactas."
+    },
+    {
+        "name": "Sesquipedalofobia", 
+        "def": "Miedo a las palabras largas. Ver hipopotomonstrosesquipedaliofobia."
+    },
+    {
+        "name": "Sexofobia", 
+        "def": "Miedo al sexo opuesto. También se conoce como heterofobia."
+    },
+    {
+        "name": "Sidafobia", 
+        "def": "Miedo a contraer el sida."
+    },
+    {
+        "name": "Siderodromofobia", 
+        "def": "Miedo a los trenes, a las vías férreas o a viajar en tren."
+    },
+    {
+        "name": "Siderofobia", 
+        "def": "Miedo a las estrellas."
+    },
+    {
+        "name": "Sifilofobia", 
+        "def": "Miedo a la sífilis. También se conoce como luifobia."
+    },
+    {
+        "name": "Simbolofobia", 
+        "def": "Miedo al simbolismo."
+    },
+    {
+        "name": "Simetrofobia", 
+        "def": "Miedo a la simetría."
+    },
+    {
+        "name": "Singenesofobia", 
+        "def": "Miedo a los parientes."
+    },
+    {
+        "name": "Sinistrofobia", 
+        "def": "Miedo a la izquierda, a coger cosas con la mano izquierda o bien a los zurdos."
+    },
+    {
+        "name": "Sinofobia", 
+        "def": "Miedo a China, a los chinos o bien a la cultura china."
+    },
+    {
+        "name": "Sitiofobia", 
+        "def": "Miedo a la comida o a comer."
+    },
+    {
+        "name": "Socerafobia", 
+        "def": "Miedo a los suegros."
+    },
+    {
+        "name": "Sociofobia", 
+        "def": "Miedo a la sociedad. Ver Fobia Social."
+    },
+    {
+        "name": "Sofofobia", 
+        "def": "Miedo a aprender."
+    },
+    {
+        "name": "Somnifobia", 
+        "def": "Miedo a dormir. También se conoce como hipnofobia."
+    },
+    {
+        "name": "Soteriofobia", 
+        "def": "Miedo a la dependencia de otros."
+    },
+    {
+        "name": "Surifobia", 
+        "def": "Miedo a los ratones. También se conoce como muridofobia, murofobia y musofobia."
+    },
+    {
+        "name": "Taasofobia", 
+        "def": "Miedo a sentarse. También se conoce como catisofobia."
+    },
+    {
+        "name": "Tacofobia", 
+        "def": "Miedo a la velocidad."
+    },
+    {
+        "name": "Taeniafobia", 
+        "def": "Miedo a la tenia o lombriz solitaria."
+    },
+    {
+        "name": "Tafiofobia", 
+        "def": "Miedo a ser enterrado vivo, o bien a los cementerios."
+    },
+    {
+        "name": "Talasofobia", 
+        "def": "Miedo al mar."
+    },
+    {
+        "name": "Tanatofobia", 
+        "def": "Miedo a la muerte o a morir."
+    },
+    {
+        "name": "Tapinofobia", 
+        "def": "Miedo a ser contagiosoo a contagiar alguna enfermedad."
+    },
+    {
+        "name": "Taurofobia", 
+        "def": "Miedo a los toros."
+    },
+    {
+        "name": "Teatrofobia", 
+        "def": "Miedo a los teatros."
+    },
+    {
+        "name": "Tecnofobia", 
+        "def": "Miedo a la tecnología."
+    },
+    {
+        "name": "Telefonofobia", 
+        "def": "Miedo a los teléfonos."
+    },
+    {
+        "name": "Teleofobia", 
+        "def": "Miedo a los planes definidos."
+    },
+    {
+        "name": "Teleofobia", 
+        "def": "Miedo a las ceremonias religiosas."
+    },
+    {
+        "name": "Teofobia", 
+        "def": "Miedo a los dioses o a la religión. También se conoce como zeusofobia."
+    },
+    {
+        "name": "Teratofobia", 
+        "def": "Miedo a las personas deformadas, a dar a luz a un niño deforme o bien a los monstruos."
+    },
+    {
+        "name": "Termofobia", 
+        "def": "Miedo al calor."
+    },
+    {
+        "name": "Testofobia", 
+        "def": "Miedo a los tests o a los exámenes."
+    },
+    {
+        "name": "Tetanofobia", 
+        "def": "Miedo al tétanos."
+    },
+    {
+        "name": "Tetrafobia", 
+        "def": "Miedo al número 4."
+    },
+    {
+        "name": "Teutofobia", 
+        "def": "Miedo a Alemania, los alemanes o lo relacionado con la cultura alemana. También se conoce como germanofobia."
+    },
+    {
+        "name": "Textofobia", 
+        "def": "Miedo a la tela o tejidos."
+    },
+    {
+        "name": "Tiranofobia", 
+        "def": "Miedo a los tiranos."
+    },
+    {
+        "name": "Tocofobia", 
+        "def": "Miedo al embarazo o al parto."
+    },
+    {
+        "name": "Tomofobia", 
+        "def": "Miedo a las operaciones quirúrgicas."
+    },
+    {
+        "name": "Tonitrofobia", 
+        "def": "Miedo a los truenos. Véanse también astrafobia, astrapofobia, brontofobia o ceraunofobia."
+    },
+    {
+        "name": "Topofobia", 
+        "def": "Miedo a ciertos lugares o situaciones, como por ejemplo el miedo escénico."
+    },
+    {
+        "name": "Toxifobia", 
+        "def": "Miedo a los venenos o a ser envenenado accidentalmente. También se conoce como toxofobia o toxicofobia."
+    },
+    {
+        "name": "Traumatofobia", 
+        "def": "Miedo a los accidentes. También se conoce como distiquifobia."
+    },
+    {
+        "name": "Tremofobia", 
+        "def": "Miedo a los terremotos y temblores."
+    },
+    {
+        "name": "Tricofobia", 
+        "def": "Miedo al pelo. También se conoce como cateofobia, hipertricofobia, quetofobia o tricopatofobia."
+    },
+    {
+        "name": "Tripanofobia", 
+        "def": "Miedo a las inyecciones. Ver belonefobia."
+    },
+    {
+        "name": "Tripofobia", 
+        "def": "Miedo a los agujeros."
+    },
+    {
+        "name": "Triquinofobia", 
+        "def": "Miedo a la triquinosis."
+    },
+    {
+        "name": "Triscadecafobia", 
+        "def": "Miedo al número 13."
+    },
+    {
+        "name": "Tropofobia", 
+        "def": "Miedo a mudarse o a hacer cambios."
+    },
+    {
+        "name": "Tuberculofobia", 
+        "def": "Miedo a la tuberculosis. Ver ptisiofobia."
+    },
+    {
+        "name": "Uranofobia", 
+        "def": "Miedo al paraíso o al cielo."
+    },
+    {
+        "name": "Urofobia", 
+        "def": "Miedo a la orina o a orinarse."
+    },
+    {
+        "name": "Vacunafobia", 
+        "def": "Miedo a la vacunación."
+    },
+    {
+        "name": "Valonofobia", 
+        "def": "Miedo a los valones, (naturales de Valonia, región de Bélgica)."
+    },
+    {
+        "name": "Venustrafobia", 
+        "def": "Miedo a las mujeres hermosas. También se conoce como caliginefobia."
+    },
+    {
+        "name": "Verbofobia", 
+        "def": "Miedo a las palabras. También se conoce como logofobia."
+    },
+    {
+        "name": "Verminofobia", 
+        "def": "Miedo a los gérmenes. Ver misofobia."
+    },
+    {
+        "name": "Vestifobia", 
+        "def": "Miedo a la ropa o a vestirse."
+    },
+    {
+        "name": "Vicafobia", 
+        "def": "Miedo a las brujas o a la brujería."
+    },
+    {
+        "name": "Virginitifobia", 
+        "def": "Miedo a la violación."
+    },
+    {
+        "name": "Vitricofobia", 
+        "def": "Miedo al padrastro."
+    },
+    {
+        "name": "Xantofobia", 
+        "def": "Miedo al amarillo, al color o la palabra."
+    },
+    {
+        "name": "Xenofobia", 
+        "def": "Miedo u odio a los extranjeros, o bien a un sentimiento de odio, repugnancia u hostilidad hacia los mismos."
+    },
+    {
+        "name": "Xenoglosofobia", 
+        "def": "Miedo a las lenguas extranjeras."
+    },
+    {
+        "name": "Xerofobia", 
+        "def": "Miedo a la sequedad."
+    },
+    {
+        "name": "Xilofobia", 
+        "def": "Miedo a los objetos de madera."
+    },
+    {
+        "name": "Xirofobia", 
+        "def": "Miedo a las navajas barberas."
+    },
+    {
+        "name": "Zelofobia", 
+        "def": "Miedo a los celos."
+    },
+    {
+        "name": "Zemifobia", 
+        "def": "Miedo a los topos."
+    },
+    {
+        "name": "Zeusofobia", 
+        "def": "Miedo a Dios o a los dioses. También se conoce como teofobia."
+    },
+    {
+        "name": "Zoofobia", 
+        "def": "Miedo a los animales."
+    }
+]
